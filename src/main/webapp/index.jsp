@@ -14,8 +14,6 @@
 
 
 
-
-
 <% 
   String name = "Hoshmand",
          name1 = "Ali Rafea", 
@@ -26,10 +24,7 @@
 <%= name + ", " + name1 + ", " + name2 + ", " + name3 %>
 
 
-
-
-
-
+<h1>Welcome..</h1>
 
 
 
