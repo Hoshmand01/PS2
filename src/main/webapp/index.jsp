@@ -16,6 +16,16 @@
 
 
 
+<% 
+  String name = "Hoshmand",
+         name1 = "Ali Rafea", 
+         name2 = "Ahmed Dilshad",
+     	 name3 = "Helen Heve";
+%>
+
+<%= name + ", " + name1 + ", " + name2 + ", " + name3 %>
+
+
 
 
 
